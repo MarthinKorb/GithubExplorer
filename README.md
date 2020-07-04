@@ -2,12 +2,12 @@
 
 Aplicação que busca e armazena seus repositórios favoritos no **Github**
 
-### Front-end: ReactJS, Typescript, StyledComponents
+### ReactJS, Typescript, StyledComponents
 ### API GitHub
 
 ----------------------------------------------------
 
-<p align="center">
+<p align="center" border-radius="4px">
 <img src=".github/exp1.png" width=800">
 <img src=".github/exp2.png" width=800">
 </p>
